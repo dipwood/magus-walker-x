@@ -1,0 +1,3963 @@
+fileFormatVersion: 2
+guid: ecaa667cd64e0b14d828a26df2cc7cec
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: magus_1_transparent_walk_0
+    21300002: magus_1_transparent_walk_1
+    21300004: magus_1_transparent_walk_2
+    21300006: magus_1_transparent_walk_3
+    21300008: magus_1_transparent_walk_4
+    21300010: magus_1_transparent_walk_5
+    21300012: magus_1_transparent_walk_6
+    21300014: magus_1_transparent_walk_7
+    21300016: magus_1_transparent_walk_8
+    21300018: magus_1_transparent_walk_9
+    21300020: magus_1_transparent_walk_10
+    21300022: magus_1_transparent_walk_11
+    21300024: magus_1_transparent_walk_12
+    21300026: magus_1_transparent_walk_13
+    21300028: magus_1_transparent_walk_14
+    21300030: magus_1_transparent_walk_15
+    21300032: magus_1_transparent_walk_16
+    21300034: magus_1_transparent_walk_17
+    21300036: magus_1_transparent_walk_18
+    21300038: magus_1_transparent_walk_19
+    21300040: magus_1_transparent_walk_20
+    21300042: magus_1_transparent_walk_21
+    21300044: magus_1_transparent_walk_22
+    21300046: magus_1_transparent_walk_23
+    21300048: magus_1_transparent_walk_24
+    21300050: magus_1_transparent_walk_25
+    21300052: magus_1_transparent_walk_26
+    21300054: magus_1_transparent_walk_27
+    21300056: magus_1_transparent_walk_28
+    21300058: magus_1_transparent_walk_29
+    21300060: magus_1_transparent_walk_30
+    21300062: magus_1_transparent_walk_31
+    21300064: magus_1_transparent_walk_32
+    21300066: magus_1_transparent_walk_33
+    21300068: magus_1_transparent_walk_34
+    21300070: magus_1_transparent_walk_35
+    21300072: magus_1_transparent_walk_36
+    21300074: magus_1_transparent_walk_37
+    21300076: magus_1_transparent_walk_38
+    21300078: magus_1_transparent_walk_39
+    21300080: magus_1_transparent_walk_40
+    21300082: magus_1_transparent_walk_41
+    21300084: magus_1_transparent_walk_42
+    21300086: magus_1_transparent_walk_43
+    21300088: magus_1_transparent_walk_44
+    21300090: magus_1_transparent_walk_45
+    21300092: magus_1_transparent_walk_46
+    21300094: magus_1_transparent_walk_47
+    21300096: magus_1_transparent_walk_48
+    21300098: magus_1_transparent_walk_49
+    21300100: magus_1_transparent_walk_50
+    21300102: magus_1_transparent_walk_51
+    21300104: magus_1_transparent_walk_52
+    21300106: magus_1_transparent_walk_53
+    21300108: magus_1_transparent_walk_54
+    21300110: magus_1_transparent_walk_55
+    21300112: magus_1_transparent_walk_56
+    21300114: magus_1_transparent_walk_57
+    21300116: magus_1_transparent_walk_58
+    21300118: magus_1_transparent_walk_59
+    21300120: magus_1_transparent_walk_60
+    21300122: magus_1_transparent_walk_61
+    21300124: magus_1_transparent_walk_62
+    21300126: magus_1_transparent_walk_63
+    21300128: magus_1_transparent_walk_64
+    21300130: magus_1_transparent_walk_65
+    21300132: magus_1_transparent_walk_66
+    21300134: magus_1_transparent_walk_67
+    21300136: magus_1_transparent_walk_68
+    21300138: magus_1_transparent_walk_69
+    21300140: magus_1_transparent_walk_70
+    21300142: magus_1_transparent_walk_71
+    21300144: magus_1_transparent_walk_72
+    21300146: magus_1_transparent_walk_73
+    21300148: magus_1_transparent_walk_74
+    21300150: magus_1_transparent_walk_75
+    21300152: magus_1_transparent_walk_76
+    21300154: magus_1_transparent_walk_77
+    21300156: magus_1_transparent_walk_78
+    21300158: magus_1_transparent_walk_79
+    21300160: magus_1_transparent_walk_80
+    21300162: magus_1_transparent_walk_81
+    21300164: magus_1_transparent_walk_82
+    21300166: magus_1_transparent_walk_83
+    21300168: magus_1_transparent_walk_84
+    21300170: magus_1_transparent_walk_85
+    21300172: magus_1_transparent_walk_86
+    21300174: magus_1_transparent_walk_87
+    21300176: magus_1_transparent_walk_88
+    21300178: magus_1_transparent_walk_89
+    21300180: magus_1_transparent_walk_90
+    21300182: magus_1_transparent_walk_91
+    21300184: magus_1_transparent_walk_92
+    21300186: magus_1_transparent_walk_93
+    21300188: magus_1_transparent_walk_94
+    21300190: magus_1_transparent_walk_95
+    21300192: magus_1_transparent_walk_96
+    21300194: magus_1_transparent_walk_97
+    21300196: magus_1_transparent_walk_98
+    21300198: magus_1_transparent_walk_99
+    21300200: magus_1_transparent_walk_100
+    21300202: magus_1_transparent_walk_101
+    21300204: magus_1_transparent_walk_102
+    21300206: magus_1_transparent_walk_103
+    21300208: magus_1_transparent_walk_104
+    21300210: magus_1_transparent_walk_105
+    21300212: magus_1_transparent_walk_106
+    21300214: magus_1_transparent_walk_107
+    21300216: magus_1_transparent_walk_108
+    21300218: magus_1_transparent_walk_109
+    21300220: magus_1_transparent_walk_110
+    21300222: magus_1_transparent_walk_111
+    21300224: magus_1_transparent_walk_112
+    21300226: magus_1_transparent_walk_113
+    21300228: magus_1_transparent_walk_114
+    21300230: magus_1_transparent_walk_115
+    21300232: magus_1_transparent_walk_116
+    21300234: magus_1_transparent_walk_117
+    21300236: magus_1_transparent_walk_118
+    21300238: magus_1_transparent_walk_119
+    21300240: magus_1_transparent_walk_120
+    21300242: magus_1_transparent_walk_121
+    21300244: magus_1_transparent_walk_122
+    21300246: magus_1_transparent_walk_123
+    21300248: magus_1_transparent_walk_124
+    21300250: magus_1_transparent_walk_125
+    21300252: magus_1_transparent_walk_126
+    21300254: magus_1_transparent_walk_127
+    21300256: magus_1_transparent_walk_128
+    21300258: magus_1_transparent_walk_129
+    21300260: magus_1_transparent_walk_130
+    21300262: magus_1_transparent_walk_131
+    21300264: magus_1_transparent_walk_132
+    21300266: magus_1_transparent_walk_133
+    21300268: magus_1_transparent_walk_134
+    21300270: magus_1_transparent_walk_135
+    21300272: magus_1_transparent_walk_136
+    21300274: magus_1_transparent_walk_137
+    21300276: magus_1_transparent_walk_138
+    21300278: magus_1_transparent_walk_139
+    21300280: magus_1_transparent_walk_140
+    21300282: magus_1_transparent_walk_141
+    21300284: magus_1_transparent_walk_142
+    21300286: magus_1_transparent_walk_143
+    21300288: magus_1_transparent_walk_144
+    21300290: magus_1_transparent_walk_145
+    21300292: magus_1_transparent_walk_146
+    21300294: magus_1_transparent_walk_147
+    21300296: magus_1_transparent_walk_148
+    21300298: magus_1_transparent_walk_149
+    21300300: magus_1_transparent_walk_150
+    21300302: magus_1_transparent_walk_151
+    21300304: magus_1_transparent_walk_152
+    21300306: magus_1_transparent_walk_153
+    21300308: magus_1_transparent_walk_154
+    21300310: magus_1_transparent_walk_155
+    21300312: magus_1_transparent_walk_156
+    21300314: magus_1_transparent_walk_157
+    21300316: magus_1_transparent_walk_158
+    21300318: magus_1_transparent_walk_159
+    21300320: magus_1_transparent_walk_160
+    21300322: magus_1_transparent_walk_161
+    21300324: magus_1_transparent_walk_162
+    21300326: magus_1_transparent_walk_163
+    21300328: magus_1_transparent_walk_164
+    21300330: magus_1_transparent_walk_165
+    21300332: magus_1_transparent_walk_166
+    21300334: magus_1_transparent_walk_167
+    21300336: magus_1_transparent_walk_168
+    21300338: magus_1_transparent_walk_169
+    21300340: magus_1_transparent_walk_170
+    21300342: magus_1_transparent_walk_171
+    21300344: magus_1_transparent_walk_172
+    21300346: magus_1_transparent_walk_173
+    21300348: magus_1_transparent_walk_174
+    21300350: magus_1_transparent_walk_175
+    21300352: magus_1_transparent_walk_176
+    21300354: magus_1_transparent_walk_177
+    21300356: magus_1_transparent_walk_178
+    21300358: magus_1_transparent_walk_179
+    21300360: magus_1_transparent_walk_180
+    21300362: magus_1_transparent_walk_181
+    21300364: magus_1_transparent_walk_182
+    21300366: magus_1_transparent_walk_183
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 332
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e6e8deae93d8145ad884add27773ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 332
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc39f83c48e647e4eb9c101bf75acea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 332
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818be986b61c1f348aea9855a4f63272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 332
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ec454bc60cc8644bf30ca71907bf31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 332
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50242a54c22969e4fbf0127ad3285e4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 333
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e5b1a5278f4ed488d4033f771da1d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 333
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ae93f6a3202c489fe752934f1fa6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 333
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590c892a01ecb674c874e5af802addc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 333
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ca648cc044544e85ec7c7d6d439c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 332
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25295da6740a4ac4f94f8a7f97e061f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 332
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484b29dc1b1546642beecbfa31206387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 331
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a0a0e1b94181145a54c59380ae0fda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 335
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4800e04265cd448b45aa98c23e6877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 335
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60852ed638fc8bd47ab32bb6c6a2d73d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 334
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc4d747f3ad1f4b91734b78cd99f47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 333
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13a2d2f050d984c860e45430be192b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 332
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eedd4682ca5a0842ad2142338996b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 332
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dacdd034c75fe345b91188359003e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 332
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e074efe8f2b2c1848a12627126339175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 332
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7509a06ab733734a8235d6305db9682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_20
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 332
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dceb5ff39c49440b5b740cf005a8d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_21
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 332
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d041903e6fc4f04bbc067760784f95e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_22
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 332
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643e364b2ae46948807ccc7d7783124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_23
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 330
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cecbbd1543fbf4aabcbd58d892d434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_24
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 330
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab01646dc23cc24f8dcb67149968dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_25
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 330
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351c3b1ae020d23438e5ad684cb5e426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_26
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 330
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d4cd81f8110544ea5d8ad9b02ef9f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_27
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 330
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9876a9ac9304524191d9c3d321d4c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 287
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40389b89b93e6c84daf29b1f640bd7db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcaf23ddc17255489c207e5e5ba05d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 286
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1763959cb067fcd409020251a317de23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 286
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5571298611dc5a4a91981aded4bf8e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 286
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cb9dd908276a6479f075b46739366d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 287
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aa2092608cd3e498608f17e0d0749c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 286
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e2f17fba1809e4e9d6b016a18dbd35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 286
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e726e57dfe5cf449e1d975c5cad2ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 286
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e0c4c818d16049aebb227ae1861a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 285
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d105ec95c2011f42bc08243d775efd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 285
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39470ac7c37a13c4da32cd873650afef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 285
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce30841ae7e694468dbe49ddace95df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_40
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 285
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06971c6f622284f47a31b8b71b7dc55b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 285
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8166d227ea49529478ced42532eb11b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 285
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9758cb9813b8a04db3bb2986b0a6a7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_43
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 285
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f5418f3b3e25443b0b1fd5610f43cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_44
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 285
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d413719e9983544cad6ae77515a2da6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_45
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 284
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293ad6e846809048842ad50b5747878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_46
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 283
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa8f21975cea0e4abb71e4dbce7042f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 282
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d69fc0eafaa214790c6de900855ae8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_48
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 281
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de40972a310cf2545800c67848f73055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_49
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 280
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b228c96262a24d85f4910b4673b95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_50
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 280
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77369f615ff19f74bad212cce6dbe72d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_51
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 280
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b734afde7c89648b4b38a1f4fee6fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_52
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 280
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dda13afac33e54cbaff85ea3da1b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_53
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 280
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd1de9d0194bd5499eecf4094ae1f85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_54
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef031161baba1246a6d51244702a0cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_55
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 280
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7bf50a9150ee547ad714409e05c4ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_56
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 280
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6457719547948864f986b43e865f1c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 247
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4555a58a11ed3b54aa0a2f663bd0cba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_58
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 247
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f8595889ab28843af4b08e46f7c901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_59
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 247
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ecc5e7f04d02841809db511f91bca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_60
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 246
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226fd4dccc9095b47b003b23d22426d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 246
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d25e157fce37b4096eec16fca34ad8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_62
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 246
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f621838bce6b4b9ec044724e5a387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64c40b7ac643cb45b9c547d7dd63d43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_64
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 247
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407ea4079c052854fae3e6eb59abe111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_65
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 248
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ce6a596556a94187f91c2948a1c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 248
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3930ee0bea5a1947a497909b022271e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 238
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b53da810f14744a0b55d63ad5e995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_68
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 238
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c803eb7884f93a94a859f9f19878668f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_69
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 238
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd05029b09cd1b43b7745499f1f4740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_70
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 238
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce630a1ad6ce28b41810b048e5fb4701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_71
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 238
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad948c273f47444d8c2bc19983287b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_72
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 238
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48972ae08245bc46a3faa094a4de6ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_73
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 238
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8469104f27eb09489a4b23c39196a1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_74
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 238
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fbaa9e6fb3acf47a3a2954c5847e57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 238
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffc1e22e7672842bc24eaac50101a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_76
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 238
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e63f5e881a83844f8edda1810eb6ba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_77
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 238
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deea5c949adb1f8408c22013cafe1313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_78
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c029879f2523234f948e0208e1476a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_79
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 238
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3203746597a4f0f4e96a1aff75c1908b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_80
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 238
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d403a14c736f8ee46998b2cd07baf543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_81
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2736725d57f20df4da590c67e221b878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931817348c78a1240989e8bb175dfb2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_83
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 207
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1810b3e320b41dc4b9c83119f7e5e67e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_84
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 207
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754df4820de51b34baf32ffa8b362d02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_85
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767aafd437031434aafdd5f9f23d918f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 207
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87c0a5e8f430be4f83ef483b9a128f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_87
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 207
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c290be937f5cc684a9b5ba0235ea9258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_88
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 207
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5841813b01c2d4283705beab38c91a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_89
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 207
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d86ad27ee92494c88b403ee7fc5e7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_90
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 207
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700ae5d321d088d45a22683b47c4d761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 207
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244cc63d54e89246a474dc395f7342d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 200
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b018c0048945d743ac146d4f3867e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_93
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 200
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8651c0bfc2f4c47bf201ed82f6c94a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_94
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 200
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61439ad7a896de54795cff9bd6519ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_95
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 200
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d7221743a77384ab90bbef10afd69b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_96
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 200
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8362596e59b914784eb7d4cf92ac63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_97
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 200
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f207c98d05ec894b9d570c53dcfe226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_98
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 200
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc2dca87615bdd468cf666f92ea0201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_99
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 200
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72041eecfcc40124b84f15fe1c9da75e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_100
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 200
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7805b98041f23e4388c8e81169ac13e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_101
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 200
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680880e9c5301fe4b9f443e23a7438fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decf526190a0f214b80fb167681eac0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_103
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 199
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa1d66467231d40acf9ad3c84d5fb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_104
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 199
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57739d6b38faa0428efcf8e03b6ab9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_105
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caf01629b041a3488e845a09847d502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_106
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 159
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c89ff1f7eab0634eb10da85e0fdcb21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_107
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 158
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee7457e10fd54944b6853006e033b91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_108
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 158
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9651eaa6980bfd48aff0f0bd74b6db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_109
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 158
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46efeec7485856b4eae2e6f7a3ee8f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_110
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 158
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1266506daae6b448591f91d9b76a52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_111
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 157
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89557e75b333b224bafc97974d7e3708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_112
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 157
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3676e2332b9854ea641fbff005dc2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_113
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 157
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3952f1425901b464c87ed62976ffe9b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_114
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 157
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c274529f39c5db498dbf8a380a3d7c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_115
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 158
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67118240ae9250840892327b0de500da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_116
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 158
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e695338b972ab4c9db43a6c2ffe154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_117
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 158
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a661a08a24363a545800b7d6f950201f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_118
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 158
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f4e0059e8218d4981bc127150198b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_119
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 158
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfb9f0dba146d24e965366273031c34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_120
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 158
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4a80eb72869b740833e10d0c348cc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_121
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 158
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4af909e8d803b4b90f74770910bb68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_122
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 158
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9555698191fb16b4bbe0a076bbd6a005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_123
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 158
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de801b07972cfc4288086bc4a4ffad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_124
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 158
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f0c3037c594ae49a2650665649e6fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_125
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 157
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e00a98978400545bd3b7b9e937bb83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_126
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 156
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dd16e87e6cd9f4d8f38f0e411320ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_127
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 156
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c87efed3b72009479ceb69be39c792e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_128
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 156
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78113bb4dc8ee1c4c95a3227f906d3e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_129
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 174
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647ec1b9c57310e418fb3456a4e80be4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_130
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5b3d6cb9d2e9c40bc17831b8b851e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_131
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 117
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1d61bf82873b947bf1b833b5a17022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_132
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 117
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c6f2dc59657ec4e8c1185c55f83904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_133
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 117
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a794b3121fb2cd34c8d13c92f3ac9cd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_134
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 117
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2980e576b317ab1419e4af21812298ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_135
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 117
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112784e83b762743a2324a22fd3e033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_136
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 117
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47435196ac2080741a12fca0876a3669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_137
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 117
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c13bad40f0789a4eacc0435a2fc77f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_138
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 118
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f48cc1486bedbb4aba3b89b3068292b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_139
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 118
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd824efe8ff146840bf5d034582db8d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_140
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 118
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c6afc28762312479122583991e6978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_141
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 115
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a042ed1e59434b645b29dcd5ff21e381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_142
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 114
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f7f69bac83a9c46ba4b79df6b6d36f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_143
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 114
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb8883ed1f5fbe40881f9ba368454ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_144
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 113
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af35eea775c15c148b0fb3c44de3f696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_145
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 113
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af826721c5a77e142a64f8c9e0af66c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_146
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 113
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7049557e7842a2b45b5123c28908103a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_147
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 113
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be10a8e95374d3b4e8f7da5ad94e7a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_148
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 112
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa50c97f838e5034db1a41a2795b25bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_149
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fc976eb8c44854885780fd614dc967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_150
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d9a9ebea41ca142ab7c8f1d1c81543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_151
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 109
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c325852fe379b842bcc1834ab84fdc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_152
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82894eb7a8c2c1469090cd4770fea4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_153
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bf731dd8992fc4baed88f9e631318d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_154
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c07e8b422573da4a9f83f1a5b67b138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_155
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 76
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add3ae4d9bcd1ae458ad52cb39ffb672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_156
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 37
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8c54c1f16dd9478ecaf6a08618bef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_157
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002576cd0dcd650489d1f0486e4f1ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_158
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd6b3ea10fe9f240a352e672fc8e4cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_159
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 36
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375bda2974908db4491771a86c940ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_160
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 36
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f41a8cbdfbf994b9b9f2a82540c2e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_161
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ec15aa47e74e7489b0cd387eb91898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_162
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 35
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65628c189b74e204f8c0424b9c638bbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_163
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 35
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e837a0563d2eef04b8bdfd4f52c66527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_164
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8c7b9cfdd4b274793c2dce36be2062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_165
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 36
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a5ba7513d13b845a50de1d8ea1749c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_166
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 36
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432fe6d15c2ef3d459bab7802353a6bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_167
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33d77ad2e84022468164afba782b176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_168
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 36
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45564871df3f8a64b8050a24dcfa7591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_169
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 37
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade20f81cd1ec504fa1602caa05c811d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_170
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 36
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540cfdc1f7f6ab344aeef25ab9a1c612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_171
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 36
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc8417770baff44fba685ba1c0f54eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_172
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 35
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0492773c82c98f45855552463b951ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_173
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 31
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb69b0f2f9c13b4a9395ac6cb05258f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_174
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 34
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7141e9438e73fe4eac67fe7322879c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_175
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 25
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1291bb366f12b4785da4b6cdd64733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_176
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b398bcc7cb33964ea53f747c1ea1718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_177
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 22
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be90887529baa44a822a83936bd4651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_178
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 22
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426881a4db140c3439f2ed00d8edf881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_179
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f8e1afc05ff3240a99924a0e6b0b05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_180
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeae15a895aa1e4784ae8650a517d31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_181
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188be15828ff5894b91da8e17c68bbc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_182
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 6
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad09aa8c7a8b1c549bf19a89ae1c3f98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magus_1_transparent_walk_183
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 6
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bfc7ef027506c42a31e2b0c1315e40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 126102c30c068b947aace9fe2dd3c6ec
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

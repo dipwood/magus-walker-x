@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: 702d85bead6966f42b27b570f4e579a9
+  - enabled: 1
+    path: Assets/Scenes/Cell.unity
+    guid: 7df26411bad16144a9b00b710ac11ee1
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: a9412ead180d09147ac5919e655a53d0
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+    guid: 92a15faab790da3429ee1eb20a730f2a
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: 5c4950c7e3bf28c42b6703e734e26c22
+  - enabled: 1
+    path: Assets/Scenes/RedStorm.unity
+    guid: f49be42cfda920c429e43174c4f8c164
+  - enabled: 1
+    path: Assets/Scenes/GridTest.unity
+    guid: 6bcdb5e34617f8e47b6f93c71f951ff3
+  m_configObjects: {}
